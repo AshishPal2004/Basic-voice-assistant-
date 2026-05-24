@@ -1,0 +1,10 @@
+pygame
+SpeechRecognition
+pyaudio
+pyautogui
+numpy
+opencv-python
+pillow
+openai
+ultralytics
+pytesseract
